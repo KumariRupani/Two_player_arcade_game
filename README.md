@@ -55,18 +55,3 @@ Mobile/touch support
 🧑‍💻 Author
 Kumari Rupani
 GitHub: @KumariRupani
-
-📄 License
-This project is licensed under the MIT License.
-
----
-
-### ✅ What This Does:
-- Adds the **live demo link** right at the top of the README under **"Play the Game"**.
-- Users can simply click on the link and play your game directly in their browser!
-
----
-
-Feel free to copy and paste this updated `README.md` into your GitHub repository.
-
-Let me know if you need more help or tweaks! 😄

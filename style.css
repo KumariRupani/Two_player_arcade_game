@@ -1,0 +1,72 @@
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #121212;
+    color: white;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Game Area */
+  #gameArea {
+    position: relative;
+    width: 600px;
+    height: 400px;
+    margin: 20px auto;
+    background-color: #000;
+    border: 2px solid white;
+    display: none;
+  }
+  
+  /* Player Styling */
+  .player {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    border-radius: 5px;
+  }
+  
+  #player1 {
+    background-color: red;
+    left: 50px;
+    top: 50px;
+  }
+  
+  #player2 {
+    background-color: blue;
+    left: 500px;
+    top: 300px;
+  }
+  
+  /* Scoreboard */
+  #scoreboard {
+    display: none;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  /* Winner Screen */
+  #winnerScreen {
+    display: none;
+    margin-top: 20px;
+  }
+  
+  /* Buttons */
+  button {
+    padding: 10px 25px;
+    font-size: 18px;
+    background-color: #28a745; /* Green */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #218838; /* Darker green on hover */
+  }
+  
+  
